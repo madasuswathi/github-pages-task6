@@ -58,7 +58,7 @@ No backend server or database is required.
 
 Your website URL will be:
 
-`https://YOUR-USERNAME.github.io/focusflow-static-website/`
+https://madasuswathi.github.io/github-pages-task6/
 
 Replace `YOUR-USERNAME` with your GitHub username.
 
